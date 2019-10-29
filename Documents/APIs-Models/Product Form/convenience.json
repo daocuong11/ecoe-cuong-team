@@ -1,0 +1,17 @@
+[
+    { "name": "Trường học", "id": "SCHOOL" },
+    { "name": "Bệnh viện", "id": "HOSPITAL" },
+    { "name": "Siêu thị/ Khu mua sắm", "id": "SUPPER-MARKET" },
+    { "name": "Nhà hàng/ Cafe", "id": "RESTAURANT" },
+    { "name": "Ngân hàng/ ATM", "id": "BANK" },
+    { "name": "Công viên", "id": "PARK" },
+    { "name": "Hồ bơi", "id": "SWIMMING-POOL" },
+    { "name": "Gym", "id": "GYM" },
+    { "name": "Phòng xông hơi/ Spa", "id": "SPA" },
+    { "name": "Sân thể thao đa năng", "id": "SPORTS-GROUND" },
+    { "name": "Khu BBQ", "id": "BBQ" },
+    { "name": "Phòng sinh hoạt cộng đồng", "id": "COMMUNITY-LIVING-ROOM" },
+    { "name": "Wifi miễn phí", "id": "WIFI" },
+    { "name": "Bãi để ôtô", "id": "OTO-PARKING" },
+    { "name": "Bãi để xe máy", "id": "BIKE-PARKING" }
+]

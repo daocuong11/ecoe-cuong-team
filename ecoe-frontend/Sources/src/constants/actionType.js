@@ -1,0 +1,2 @@
+export const SET_DOMAIN_TYPE = "SET_DOMAIN_TYPE";
+

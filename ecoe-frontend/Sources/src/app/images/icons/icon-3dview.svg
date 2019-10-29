@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="39.747" viewBox="0 0 44 39.747">
+  <g id="Group_2631" data-name="Group 2631" transform="translate(-1178 -607.58)">
+    <path id="Path_359" data-name="Path 359" d="M11.241,22.482A11.241,11.241,0,1,1,22.482,11.241,11.241,11.241,0,0,1,11.241,22.482Zm0-20.865A9.663,9.663,0,1,0,20.9,11.28v-.039a9.663,9.663,0,0,0-9.663-9.663h0ZM15.777,5.4,4.5,10.176c-.473.2-.434.394.039.473l5.285,1.223a.276.276,0,0,1,.2.2l1.5,5.127c.118.473.316.513.473,0l4.1-11.517c.079-.237-.039-.394-.316-.276Z" transform="translate(1189 607.58)" fill="#21385f"/>
+    <text id="_3D_view" data-name="3D view" transform="translate(1200 644.326)" fill="#21385f" font-size="11" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="-21.241" y="0">3D view</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+{
+    "step1": {
+        "project": "String",
+        "district": "ID",
+        "totalBedRoom": "Number",
+        "advantage": "String"
+    },
+    "step2": {
+        "price": ["Number"],
+        "commission": ["Number"],
+        "acreagePrice": ["Number"]
+    },
+    "step3": {
+        "general": ["ID"],
+        "floorPlan": ["ID"],
+        "showFlat": ["ID"],
+        "location": ["ID"],
+        "video": "URL",
+        "streetView": "URL",
+        "link3D": "URL"
+    },
+    "step4": {
+        "general": {
+            "status": "Product-status.json",
+            "address": {
+                "apartmentNumber": "String",
+                "street": "String",
+                "city": "ID",
+                "district": "ID",
+                "ward": "ID"
+            },
+            "totalFloor": "Number",
+            "totalBlock": "Number",
+            "masterArea": "Number",
+            "handoverCondition": "ID - handoverCondition.json",
+            "orientation": {
+                "masterDoor": "ID - orientation.json",
+                "balcony": "ID - orientation.json"
+            },
+            "juridical": "ID - juridical.json",
+            "durableYears": "FIFTY|LIFETIME"
+        },
+        "utility": {
+            "utilities": "utilities.json",
+            "otherUtilities": ["String"]
+        },
+        "location": {
+            "coordinates": {
+                "lng": "Number",
+                "lat": "Number"
+            },
+            "images": ["ID"],
+            "hospitals": [{
+                "name": "String",
+                "distance": "Number"
+            }],
+            "schools": [{
+                "name": "String",
+                "distance": "Number"
+            }],
+            "markets": [{
+                "name": "String",
+                "distance": "Number"
+            }],
+            "others": [{
+                "name": "String",
+                "distance": "Number"
+            }]
+        },
+        "facilities": {
+            "furniture": {
+                "diningRoom": ["ID | String"],
+                "livingRoom": ["ID | String"],
+                "bedRoom": ["ID | String"],
+                "bathRoom": ["ID | String"]
+            },
+            "convenience": ["ID - convenience.json"],
+            "otherConvenience": ["String"]
+        },
+        "projectInfo": {
+            "name": "String",
+            "images": ["ID"],
+            "investor": "String",
+            "saleOpenDate": "DATE",
+            "handoverDate": "DATE",
+            "constructor": "String",
+            "architect": "String",
+            "operator": "String",
+            "fee": {
+                "operate": "Number",
+                "parking": "Number"
+            }
+        }
+    }
+}

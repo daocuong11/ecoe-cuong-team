@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="5" viewBox="0 0 47 5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="47" height="5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_32" data-name="Repeat Grid 32" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g transform="translate(-622 -286)">
+      <circle id="Ellipse_422" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-616 -286)">
+      <circle id="Ellipse_422-2" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-610 -286)">
+      <circle id="Ellipse_422-3" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-604 -286)">
+      <circle id="Ellipse_422-4" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-598 -286)">
+      <circle id="Ellipse_422-5" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-592 -286)">
+      <circle id="Ellipse_422-6" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-586 -286)">
+      <circle id="Ellipse_422-7" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+    <g transform="translate(-580 -286)">
+      <circle id="Ellipse_422-8" data-name="Ellipse 422" cx="2" cy="2" r="2" transform="translate(622 286)" fill="#0a2240"/>
+    </g>
+  </g>
+</svg>

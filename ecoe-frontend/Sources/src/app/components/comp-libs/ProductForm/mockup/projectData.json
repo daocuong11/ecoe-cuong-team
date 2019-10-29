@@ -1,0 +1,322 @@
+{
+	"step1": {
+		"name": "Đảo Kim Cương - Diamond Island"
+	},
+	"step2": {
+		"price": [1000000000, ""],
+		"commission": [1, 2.5],
+		"acreagePrice": [20000000, 35000000]
+	},
+	"step3": {
+		"general": [
+			{"id": 1, "url": "https://placeimg.com/1640/1480/any"}
+		],
+		"floorPlan": [
+			{"id": 2, "url": "https://placeimg.com/1640/1480/any"}
+		],
+		"showFlat": [
+			{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+		],
+		"location": [
+			{"id": 4, "url": "https://placeimg.com/1640/1480/any"}
+		],
+		"image360": [
+			{"id": 5, "url": "https://placeimg.com/1640/1480/any"}
+		],
+		"video": "https://www.youtube.com/watch?v=uA7QMslu4RY",
+		"streetView": "<iframe src='https://www.google.com/maps/embed?pb=!4v1562735006691!6m8!1m7!1sCAoSLEFGMVFpcE1QSmIxME91ODZuTzBBYWljaUxCVkRmUlZFcHBRdHRldnlvM1U1!2m2!1d10.7290174!2d106.721872!3f39.387287!4f0!5f0.7820865974627469' width='800' height='600' frameborder='0' style='border:0' allowfullscreen></iframe>",
+		"link3D": "URL"
+	},
+	"step4": {
+		"general": {
+			"status": "PRJ_OPENING_SOON",
+			"address": {
+				"street": "Tỉnh lộ 824 và Tỉnh lộ 830",
+				"city": 2,
+				"district": "Đức Hòa",
+				"ward": "Hựu Thạnh"
+			},
+			"totalInvestment": "10000000000000",
+			"totalArea": "3000",
+			"buildingDensity": "80",
+			"greenDensity": "20",
+			"initiationDate": "08/2020",
+			"handoverDate": "2023/10/10",
+			"department": "250",
+			"officetel": "100",
+			"shophouse": "100",
+			"villa": "10",
+			"house": "120",
+			"soil": "100",
+			"juridical": 1,
+			"durableYears": "1",
+			"handoverCondition": "RAW",
+			"warranty": "2",
+			"fee": {
+				"management": "2",
+				"bikeParking": "2",
+				"otoParking": "1"
+			},
+			"utilities": [
+				"HOUSE-CERTIFICATE",
+				"RIVER-VIEW",
+				"FURNISHED",
+				"NEAR-SCHOOL"
+			],
+			"otherUtilities": [
+				"Ưu điểm khác 1",
+				"Ưu điểm khác 2",
+				"Ưu điểm khác 3"
+			]
+		},
+		"kind": [
+			{
+				"type": "department",
+				"totalBlock": 6,
+				"blocks": [
+					{
+						"name": "Tháp A",
+						"images": [
+							{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+						],
+						"status": "PRJ_OPENING",
+						"keepingFee": 25000,
+						"totalElevator": 10,
+						"totalFloor": 30,
+						"totalBasement": 3,
+						"totalParkingFloor": 3,
+						"totalDepartment": 100,
+						"totalOfficetel": 100,
+						"totalShophouse": 100,
+						"openSaleDate": "10/2020",
+						"handoverDate": "10/2020",
+						"details": [
+							{
+								"images": [
+									{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+								],
+								"type": "PENTYHOUSE",
+								"total": 6,
+								"price": [10000000, 20000000],
+								"totalBedRoom": 20,
+								"totalBathRoom": 2,
+								"carpetArea": 10,
+								"builtUpArea": 10
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "villa",
+				"totalSubArea": 10,
+				"subAreas": [
+					{
+						"name": "Tiểu khu A",
+						"images": [
+							{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+						],
+						"status": "PRJ_OPENING",
+						"keepingFee": 300000000,
+						"totalVilla": 30,
+						"openSaleDate": "09/2023",
+						"handoverDate": "12/2023",
+						"details": [
+							{
+								"images": [
+									{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+								],
+								"total": 10,
+								"price": [100000000, 200000000],
+								"totalBasement": 1,
+								"totalMezzanine": 5,
+								"masterArea": 3000,
+								"usableArea": 2500,
+								"floorArea": 3200
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "house",
+				"totalSubArea": 10,
+				"subAreas": [
+					{
+						"name": "Tiểu khu B",
+						"images": [
+							{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+						],
+						"status": "PRJ_SOLD",
+						"keepingFee": 300000000,
+						"totalHouse": 90,
+						"totalShophouse": 10,
+						"openSaleDate": "10/2020",
+						"handoverDate": "10/2021",
+						"details": [
+							{
+								"images": [
+									{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+								],
+								"type": "SHOPHOUSE",
+								"total": 32,
+								"price": [10000000000, 20000000000],
+								"totalBasement": 3,
+								"totalMezzanine": 30,
+								"masterArea": 3000,
+								"usableArea": 2600,
+								"floorArea": 1000
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "soil",
+				"totalSubArea": "30",
+				"subAreas": [
+					{
+						"name": "Tiểu khu C",
+						"images": [
+							{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+						],
+						"status": "PRJ_OPENING_SOON",
+						"keepingFee": 300000,
+						"totalPieces": 30,
+						"openSaleDate": "10/2020",
+						"handoverDate": "11/2020",
+						"details": [
+							{
+								"images": [
+									{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+								],
+								"total": 20,
+								"price": [1000000000, 2000000000],
+								"masterArea": 5000,
+								"buildingLine": 21
+							}
+						]
+					}
+				]
+			}
+		],
+		"location": {
+			"coordinates": {
+				"lng": "10.823099",
+				"lat": "106.629662"
+			},
+			"images": [
+				{"id": 1, "url": "https://placeimg.com/1640/1480/any"},
+				{"id": 2, "url": "https://placeimg.com/1640/1480/any"},
+				{"id": 3, "url": "https://placeimg.com/1640/1480/any"},
+				{"id": 4, "url": "https://placeimg.com/1640/1480/any"},
+				{"id": 5, "url": "https://placeimg.com/1640/1480/any"}
+			],
+			"near": [
+				{
+					"type": "hospitals",
+					"data": [
+						{
+							"name": "Nguyễn Tri Phương",
+							"distance": 30
+						},
+						{
+							"name": "BV Quân Đội",
+							"distance": 40
+						}
+					]
+				},
+				{
+					"type": "schools",
+					"data": [
+						{
+							"name": "RMIT",
+							"distance": 6
+						}
+					]
+				},
+				{
+					"type": "markets",
+					"data": [
+						{
+							"name": "An Bình",
+							"distance": 4
+						}
+					]
+				},
+				{
+					"type": "others",
+					"data": [
+						{
+							"name": "Spa",
+							"distance": 1
+						}
+					]
+				}
+			]
+		},
+		"convenience": [
+			"SPA", "RESTAURANT", "HOSPITAL"
+		],
+		"otherConvenience": [
+			"Tiện nghi khác 1",
+			"Tiện nghi khác 2",
+			"Tiện nghi khác 3"
+		],
+		"investor": {
+			"name": "Tập đoàn Kusto",
+			"boundary": "DOMESTIC",
+			"images": [
+				{"id": 3, "url": "https://placeimg.com/1640/1480/any"}
+			],
+			"website": "https://ecoe.vn/",
+			"project": "https://ecoe.vn/",
+			"documents": [
+				{"id": 1, "name": "Tài liệu 1"},
+				{"id": 2, "name": "Tài liệu 2"}
+			]
+		},
+		"partnership": [
+			{
+				"companyId": 10,
+				"roleId": "architect",
+				"name": "VinHome"
+			},
+			{
+				"companyId": 1,
+				"roleId": "investor",
+				"name": "VinHome"
+			},
+			{
+				"companyId": 2,
+				"roleId": "constructor",
+				"name": "Hoa Binh"
+			},
+			{
+				"companyId": 3,
+				"roleId": "supervisor",
+				"name": "Hung Loc"
+			},
+			{
+				"companyId": 4,
+				"roleId": "operator",
+				"name": "Hung Loc Phat"
+			},
+			{
+				"companyId": 5,
+				"roleId": "guaranteeing",
+				"name": "ACB"
+			},
+			{
+				"companyId": 6,
+				"roleId": "fundingBank",
+				"name": "Sacombank"
+			},
+			{
+				"companyId": 7,
+				"roleId": "fundingBank",
+				"name": "Đông Á"
+			}
+		]
+	}
+}

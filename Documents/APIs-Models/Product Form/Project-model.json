@@ -1,0 +1,278 @@
+{
+	"step1": {
+		"name": "String"
+	},
+	"step2": {
+		"price": [],
+		"commission": [],
+		"acreagePrice": []
+	},
+	"step3": {
+		"general": [
+			"ID"
+		],
+		"floorPlan": [
+			"ID"
+		],
+		"showFlat": [
+			"ID"
+		],
+		"location": [
+			"ID"
+		],
+		"video": "URL",
+		"streetView": "URL",
+		"link3D": "URL"
+	},
+	"step4": {
+		"general": {
+			"status": "Product-status.json",
+			"address": {
+				"street": "String",
+				"city": "String",
+				"district": "String",
+				"ward": "String"
+			},
+			"totalInvestment": "Number",
+			"totalArea": "Number",
+			"buildingDensity": "Number",
+			"greenDensity": "Number",
+			"initiationDate": "DATE",
+			"handoverDate": "DATE",
+			"department": "Number",
+			"officetel": "Number",
+			"shophouse": "Number",
+			"villa": "Number",
+			"house": "Number",
+			"soil": "Number",
+			"juridical": "ENUM?",
+			"durableYears": "FIFTY|LIFETIME",
+			"handoverCondition": "",
+			"warranty": "Number",
+			"fee": {
+				"management": "Number",
+				"bikeParking": "Number",
+				"otoParking": "Number"
+			},
+			"utilities": "utilities.json",
+			"otherUtilities": [
+				"String"
+			]
+		},
+		"kind": [
+			{
+				"type": "department",
+				"totalBlock": "Number",
+				"blocks": [
+					{
+						"name": "String",
+						"images": [
+							"ID"
+						],
+						"status": "Product-status.json",
+						"keepingFee": "Number",
+						"totalElevator": "Number",
+						"totalFloor": "Number",
+						"totalBasement": "Number",
+						"totalParkingFloor": "Number",
+						"totalDepartment": "Number",
+						"totalOfficetel": "Number",
+						"totalShophouse": "Number",
+						"openSaleDate": "DATE",
+						"handoverDate": "DATE",
+						"details": [
+							{
+								"images": [
+									"ID"
+								],
+								"type": "Block-type.json",
+								"total": "Number",
+								"price": [
+									"from",
+									"to"
+								],
+								"totalBedRoom": "Number",
+								"totalBathRoom": "Number",
+								"carpetArea": "Number",
+								"builtUpArea": "Number"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "villa",
+				"totalSubArea": "Number",
+				"subAreas": [
+					{
+						"name": "String",
+						"images": [
+							"ID"
+						],
+						"status": "Product-status.json",
+						"keepingFee": "Number",
+						"totalVilla": "Number",
+						"openSaleDate": "DATE",
+						"handoverDate": "DATE",
+						"details": [
+							{
+								"images": [
+									"ID"
+								],
+								"total": "Number",
+								"price": [
+									"from",
+									"to"
+								],
+								"totalBasement": "Number",
+								"totalMezzanine": "Number",
+								"masterArea": "Number",
+								"usableArea": "Number",
+								"floorArea": "Number"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "house",
+				"totalSubArea": "Number",
+				"subAreas": [
+					{
+						"name": "String",
+						"images": [
+							"ID"
+						],
+						"status": "Product-status.json",
+						"keepingFee": "Number",
+						"totalHouse": "Number",
+						"totalShophouse": "Number",
+						"openSaleDate": "DATE",
+						"handoverDate": "DATE",
+						"details": [
+							{
+								"images": [
+									"ID"
+								],
+								"type": "subArea-type.json",
+								"total": "Number",
+								"price": [
+									"from",
+									"to"
+								],
+								"totalBasement": "Number",
+								"totalMezzanine": "Number",
+								"masterArea": "Number",
+								"usableArea": "Number",
+								"floorArea": "Number"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "soil",
+				"totalSubArea": "Number",
+				"subAreas": [
+					{
+						"name": "String",
+						"images": [
+							"ID"
+						],
+						"status": "Product-status.json",
+						"keepingFee": "Number",
+						"totalPieces": "Number",
+						"openSaleDate": "DATE",
+						"handoverDate": "DATE",
+						"details": [
+							{
+								"images": [
+									"ID"
+								],
+								"total": "Number",
+								"price": [
+									"from",
+									"to"
+								],
+								"masterArea": "Number",
+								"buildingLine": "Number"
+							}
+						]
+					}
+				]
+			}
+		],
+		"location": {
+			"coordinates": {
+				"lng": "Number",
+				"lat": "Number"
+			},
+			"images": [
+				"ID"
+			],
+			"near": [
+				{
+					"type": "hospitals",
+					"data": [
+						{
+							"name": "String",
+							"distance": "Number"
+						}
+					]
+				},
+				{
+					"type": "schools",
+					"data": [
+						{
+							"name": "String",
+							"distance": "Number"
+						}
+					]
+				},
+				{
+					"type": "markets",
+					"data": [
+						{
+							"name": "String",
+							"distance": "Number"
+						}
+					]
+				},
+				{
+					"type": "others",
+					"data": [
+						{
+							"name": "String",
+							"distance": "Number"
+						}
+					]
+				}
+			]
+		},
+		"convenience": [
+			"ID"
+		],
+		"otherConvenience": [
+			"String"
+		],
+		"investor": {
+			"name": "String",
+			"boundary": "DOMESTIC|FOREIGN",
+			"images": [
+				"ID"
+			],
+			"website": "URL",
+			"project": "URL",
+			"documents": [
+				"ID"
+			]
+		},
+		"partnership": [
+			{
+				"companyId": "String",
+				"roleId": "String",
+				"name": "String"
+			}
+		]
+	}
+}

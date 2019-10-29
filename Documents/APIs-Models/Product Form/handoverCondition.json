@@ -1,0 +1,5 @@
+[
+    { "name": "Thô", "id": "RAW" },
+    { "name": "Hoàn thiện cơ bản", "id": "SURFACE-FINISH" },
+    { "name": "Hoàn thiện nội thất", "id": "FURNITURE-FINISH" }
+]

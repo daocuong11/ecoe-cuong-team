@@ -1,0 +1,10 @@
+[
+    { "name": "Hướng Đông", "id": "EAST" },
+    { "name": "Hướng Tây", "id": "WEST" },
+    { "name": "Hướng Nam", "id": "SOUTH" },
+    { "name": "Hướng Bắc", "id": "NORTH" },
+    { "name": "Hướng Đông Nam", "id": "EAST-SOUTH" },
+    { "name": "Hướng Tây Nam", "id": "WEST-SOUTH" },
+    { "name": "Hướng Đông Bắc", "id": "EAST-NORTH" },
+    { "name": "Hướng Tây Bắc", "id": "WEST-NORTH" }
+]

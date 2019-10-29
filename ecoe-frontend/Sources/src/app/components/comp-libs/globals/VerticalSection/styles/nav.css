@@ -1,0 +1,31 @@
+.verticalLink {
+    position: relative;
+    font-size: 10px;
+    font-weight: bold;
+    color: #0a2240;
+
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+.verticalLink:hover {
+    color: #00837b;
+    text-decoration: unset;
+    
+}
+
+.active_verticalLink {
+    color: #00837b;
+}
+
+/* .active_verticalLink::after {
+    content: "a";
+    position: absolute;
+    left: 0;
+} */
+
+/* .verticalItem {
+    width: 100%;
+    height: 800px;
+    border: solid blue 1px;
+} */

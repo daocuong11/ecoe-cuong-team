@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3440" data-name="Rectangle 3440" width="20" height="20" transform="translate(749 2802)" fill="#fff" stroke="#28466a" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_44" data-name="Mask Group 44" transform="translate(-749 -2802)" clip-path="url(#clip-path)">
+    <g id="Ecoe_Icons-Maps-02" transform="translate(743.053 2796.562)">
+      <path id="Path_4674" data-name="Path 4674" d="M13.481,16.46h7.787a.935.935,0,0,0,.818-.483l3.767-6.815a.762.762,0,0,0,0-.737.75.75,0,0,0-.62-.359h0l-14.955.081L9.59,6.691a.948.948,0,0,0-.843-.533h-2.8V7.4H8.518l3.952,8.339-1.53,2.744a1.307,1.307,0,0,0,0,1.295,1.289,1.289,0,0,0,1.121.62H23.814V19.2H12.08a.068.068,0,0,1-.056-.1ZM24.353,9.293l-3.29,5.929H13.629L10.866,9.379Z" fill="#28466a"/>
+      <circle id="Ellipse_473" data-name="Ellipse 473" cx="1.666" cy="1.666" r="1.666" transform="translate(10.476 21.386)" fill="#28466a"/>
+      <circle id="Ellipse_474" data-name="Ellipse 474" cx="1.666" cy="1.666" r="1.666" transform="translate(20.481 21.386)" fill="#28466a"/>
+    </g>
+  </g>
+</svg>

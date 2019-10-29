@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.805" height="45.805" viewBox="0 0 45.805 45.805">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3421" data-name="Rectangle 3421" width="45.805" height="45.805" transform="translate(1159 988)" fill="#183253"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5152" data-name="Group 5152" transform="translate(-1287 -1011.195)">
+    <g id="Mask_Group_33" data-name="Mask Group 33" transform="translate(128 23.195)" clip-path="url(#clip-path)">
+      <g id="Icon_Nghé_14-33" transform="translate(1166.379 990.964)">
+        <path id="Path_4647" data-name="Path 4647" d="M53.236,44.034v-.258c-.645-2.452-2.452-3.742-4.646-3.1a3.7,3.7,0,0,0-3.355-2.194,3.818,3.818,0,0,0-1.291.258,3.631,3.631,0,0,0-3.1-1.678,1.637,1.637,0,0,0-.774.129V33.71a3.613,3.613,0,1,0-7.227,0V46.228L32.2,45.2a4.227,4.227,0,0,0-2.323-1.807,3.473,3.473,0,0,0-2.71.516c-1.29.9-1.678,2.71-1.032,4.775a.4.4,0,0,0,.129.258A50.506,50.506,0,0,0,31.427,59.52H35.04c-1.936-1.936-4-5.936-6.194-11.485a.451.451,0,0,0-.129-.258c-.258-.9-.129-1.42,0-1.549.129,0,.258-.129.516-.129.258.129.387.129.516.387l3.226,5.549a1.571,1.571,0,0,0,1.549.645,1.257,1.257,0,0,0,1.032-1.291V33.71a.774.774,0,0,1,1.549,0V45.97a1.42,1.42,0,1,0,2.839,0V40.808a.774.774,0,0,1,1.549,0v5.549a1.42,1.42,0,0,0,2.839,0v-4.13a.774.774,0,1,1,1.549,0v4.13a1.42,1.42,0,0,0,2.839,0V44.164a.833.833,0,0,1,.774-.774c.516,0,.774.774.9,1.032.129,2.452.387,10.969-1.29,14.97h2.968C53.752,53.713,53.236,44.164,53.236,44.034Z" transform="translate(-22.264 -19.644)" fill="#183253"/>
+        <rect id="Rectangle_3431" data-name="Rectangle 3431" width="8.517" height="2.581" transform="translate(0 12.905)" fill="#183253"/>
+        <rect id="Rectangle_3432" data-name="Rectangle 3432" width="8.517" height="2.581" transform="translate(20.003 12.905)" fill="#183253"/>
+        <rect id="Rectangle_3433" data-name="Rectangle 3433" width="8.517" height="2.581" transform="translate(17.387 9.305) rotate(-45)" fill="#183253"/>
+        <rect id="Rectangle_3434" data-name="Rectangle 3434" width="2.581" height="8.517" transform="translate(3.314 5.091) rotate(-45)" fill="#183253"/>
+        <rect id="Rectangle_3435" data-name="Rectangle 3435" width="2.581" height="8.517" transform="translate(12.905 0)" fill="#183253"/>
+      </g>
+    </g>
+  </g>
+</svg>

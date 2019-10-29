@@ -1,0 +1,6 @@
+
+const productReducer = (product)=>{
+    return{
+        
+    }
+}

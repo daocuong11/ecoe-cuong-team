@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="39.297" viewBox="0 0 32 39.297">
+  <g id="Group_2633" data-name="Group 2633" transform="translate(-1120 -608.445)">
+    <g id="Group_601" data-name="Group 601" transform="translate(1125 608.945)">
+      <path id="Path_354" data-name="Path 354" d="M19.5,17.361H1.708A1.709,1.709,0,0,1,0,15.652H0V1.708A1.709,1.709,0,0,1,1.708,0H19.5a1.709,1.709,0,0,1,1.708,1.708h0V15.652A1.709,1.709,0,0,1,19.5,17.361ZM1.708,1.332a.376.376,0,0,0-.376.376h0V15.652a.376.376,0,0,0,.376.376H19.5a.376.376,0,0,0,.373-.376V1.708a.376.376,0,0,0-.373-.376Z" fill="#21385f" stroke="#21385f" stroke-width="1"/>
+      <path id="Path_355" data-name="Path 355" d="M26.93,22.115V16.208a.5.5,0,0,1,.789-.4l4,2.954a.5.5,0,0,1,.1.694.489.489,0,0,1-.1.1l-4,2.954a.5.5,0,0,1-.789-.4Z" transform="translate(-17.962 -10.48)" fill="#21385f" stroke="#fff" stroke-width="1"/>
+    </g>
+    <text id="Video" transform="translate(1136 644.742)" fill="#21385f" font-size="11" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="-15.076" y="0">Video</tspan></text>
+  </g>
+</svg>

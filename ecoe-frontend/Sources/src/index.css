@@ -1,0 +1,102 @@
+/* 
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Muli'); 
+*/
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,400i,700,700i,800,800i,900,900i&subset=vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,700&subset=vietnamese');
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font: 400 1.6rem/2.4rem 'Muli','sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  /* color: unset; */
+}
+a:visited {
+  /* color: unset; */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+    box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.slick-slider {
+  height: 100%;
+}
+.slick-slider > button { 
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+}
+.slick-slider .slick-prev,
+.slick-slider .slick-next {
+  z-index: 1;
+  transform: none;
+}
+.slick-slider .slick-prev {
+  left: 0;
+  top: calc(50% - 15px);
+}
+.slick-slider .slick-next {
+  right: 0;
+  transform: rotateZ(180deg);
+}
+.slick-slider .slick-prev:before, 
+.slick-slider .slick-next:before {
+  font-family: auto;
+  /* content: '\1438'; */
+  content: '\2329';
+  position: relative;
+  font-size: 3rem;
+  top: -1.5rem;
+}
+.slick-slider .slick-next:before {
+  top: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 9px;
+  }
+  
+  body {
+    font: 400 1.6rem/2.4rem 'Muli','sans-serif';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+.classNameTest {
+  /* text-transform: uppercase; */
+  /* cursor: pointer; */
+  /* background: transparent; */
+  /* font-size: 16px; */
+  border-radius: 3px;
+  color: violet;
+  border: 2px solid violet;
+  margin: 0 1em;
+  padding: 0.25em 1em;
+  transition: 0.5s all ease-out;
+}
+
+.classNameTest:hover {
+  color: white;
+  background-color: violet;
+}

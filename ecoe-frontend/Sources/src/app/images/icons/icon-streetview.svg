@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="39.53" viewBox="0 0 60 39.53">
+  <g id="Group_2632" data-name="Group 2632" transform="translate(-1240 -607.811)">
+    <g id="Group_610" data-name="Group 610" transform="translate(1262 608.061)">
+      <g id="Group_606" data-name="Group 606" transform="translate(0 16.97)">
+        <path id="Path_356" data-name="Path 356" d="M11.062,23.457c-2.616,0-7.562-.464-7.562-2.224,0-1.639,4.309-2.066,5.63-2.157a.455.455,0,0,1,.475.413.446.446,0,0,1-.413.475c-3.375.234-4.8,1-4.8,1.27,0,.388,2.338,1.335,6.673,1.335s6.673-.947,6.673-1.335c0-.267-1.428-1.036-4.8-1.27a.446.446,0,0,1-.413-.475A.452.452,0,0,1,13,19.075c1.32.092,5.63.519,5.63,2.157C18.625,22.992,13.678,23.457,11.062,23.457Z" transform="translate(-3.5 -19.074)" fill="#21385f" stroke="#21385f" stroke-width="0.5"/>
+      </g>
+      <g id="Group_609" data-name="Group 609" transform="translate(3.677)">
+        <g id="Group_607" data-name="Group 607" transform="translate(0 5.338)">
+          <path id="Path_357" data-name="Path 357" d="M13.3,20.235H9.739a.446.446,0,0,1-.444-.413L8.879,14a1.335,1.335,0,0,1-1.237-1.5l.569-4.559A2.229,2.229,0,0,1,10.42,6h2.2a2.228,2.228,0,0,1,2.207,1.948l.569,4.559A1.335,1.335,0,0,1,14.157,14l-.415,5.818A.446.446,0,0,1,13.3,20.235Zm-3.145-.89h2.73L13.3,13.53a.446.446,0,0,1,.444-.413h.327a.444.444,0,0,0,.441-.5l-.569-4.559A1.337,1.337,0,0,0,12.616,6.89h-2.2A1.337,1.337,0,0,0,9.095,8.059l-.569,4.559a.444.444,0,0,0,.442.5h.327a.446.446,0,0,1,.444.413Z" transform="translate(-7.633 -6)" fill="#21385f" stroke="#21385f" stroke-width="0.5"/>
+        </g>
+        <g id="Group_608" data-name="Group 608" transform="translate(1.661)">
+          <path id="Path_358" data-name="Path 358" d="M11.724,4.448a2.224,2.224,0,1,1,2.224-2.224A2.227,2.227,0,0,1,11.724,4.448Zm0-3.559a1.335,1.335,0,1,0,1.335,1.335A1.336,1.336,0,0,0,11.724.89Z" transform="translate(-9.5)" fill="#21385f" stroke="#21385f" stroke-width="0.5"/>
+        </g>
+      </g>
+    </g>
+    <text id="Street_view" data-name="Street view" transform="translate(1270 644.341)" fill="#21385f" font-size="11" font-family="Muli-Bold, Muli" font-weight="700"><tspan x="-29.513" y="0">Street view</tspan></text>
+  </g>
+</svg>

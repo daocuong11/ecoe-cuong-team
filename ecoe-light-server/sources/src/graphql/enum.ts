@@ -1,0 +1,121 @@
+import {
+  PRODUCT_TYPE_HOUSE, PRODUCT_TYPE_PROJECT, MS, SD_BO, SD_FO,
+  LAND_DEED, CONTRACT, NEAR_SUPPERMARKET, FULL_FURNITURE, CONVENIENT_TRANSPORTATION,
+  RIVER_VIEW, CITY_VIEW, SMART_HOME, NEAR_HOPITAL, CROWDED, GREEN_DESIGN, CITY_CENTRAL,
+  PRJ_OPENING_SOON, PRJ_OPENING, PRJ_SOLD, HM_OPENING, HM_SOLD, FOREVER, FIFTY_YEAR,
+  ROUGH_HANDOVER, BASIC_HANDOVER, FULL_FURNITURE_HANDOVER
+} from '../const/productConstant';
+
+const enumDeftype = `
+enum BRANCH_TYPE {
+  ${MS}
+  ${SD_BO}
+  ${SD_FO}
+}
+
+enum PRODUCT_STATUS {
+  ${PRJ_OPENING_SOON}
+  ${PRJ_OPENING}
+  ${PRJ_SOLD}
+  ${HM_OPENING}
+  ${HM_SOLD}
+}
+
+enum PRODUCT_TYPE {
+  ${PRODUCT_TYPE_HOUSE} 
+  ${PRODUCT_TYPE_PROJECT}
+}
+
+enum AUTHOR_CODE {
+  a
+}
+
+enum BATHS {
+  a
+}
+
+enum BEDS {
+  a
+}
+
+enum DIRECTION {
+  a
+}
+
+enum JURIDICAL {
+  ${LAND_DEED}
+  ${CONTRACT}
+}
+
+enum OWN_TIME {
+  ${FIFTY_YEAR}
+  ${FOREVER}
+}
+
+enum HANDOVER_STATUS{
+  ${ROUGH_HANDOVER}
+  ${BASIC_HANDOVER}
+  ${FULL_FURNITURE_HANDOVER}
+}
+
+enum UTILITY {
+  ${FULL_FURNITURE}
+  ${NEAR_SUPPERMARKET}
+  ${CONVENIENT_TRANSPORTATION}
+  ${RIVER_VIEW}
+  ${CITY_VIEW}
+  ${SMART_HOME}
+  ${NEAR_HOPITAL}
+  ${CROWDED}
+  ${GREEN_DESIGN}
+  ${CITY_CENTRAL}
+}
+
+enum CONFIG{
+  APARTMENTTYPE, 
+  CATALOGUE, 
+  COMPANYROLE, 
+  COMPLETEDSTATE, 
+  COUNTRY, 
+  EDITEDSTATUS, 
+  FURNITUREGROUP, 
+  LANDTYPE, 
+  LEGALCERTIFICATION, 
+  LEGALPERIOD, 
+  MEDIATYPE, 
+  NOTIFICATIONSTATUS, 
+  NOTIFICATIONTYPE, 
+  ORIENTATION, 
+  PLACEMENTTYPE, 
+  PROJECTSTATUS, 
+  PROJECTTYPE, 
+  PROPERTYTYPE, 
+  RESOURCETYPE, 
+  CITY
+}
+
+type pagination {
+  pageIndex: Int,
+  pageSize: Int,
+  totalPage: Int
+}
+
+type orderBy {
+  field: String,
+  isASC: Boolean
+}
+
+type Image {
+  src: String,
+  alt: String
+}
+
+type ProductRespone {
+  totalRecord: Int,
+  hasMore: Boolean,
+  products: [Product]
+}
+
+`;
+
+export = enumDeftype
